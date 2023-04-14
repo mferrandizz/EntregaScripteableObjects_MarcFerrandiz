@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1bd58402e15dab49bb280dfc77e42b4, type: 3}
+  m_Name: Espanol
+  m_EditorClassIdentifier: 
+  texto: "Hola ni\xF1os y ni\xF1as"
+  texto1: Como os ha ido el dia?
+  texto2: "Espero que ma\xF1ana sea un dia genial"
+  texto3: "Hasta ma\xF1ana"
